@@ -4,6 +4,7 @@ djangorestframework==3.14.0
 mysql==0.0.3
 mysqlclient==2.2.4
 psycopg2==2.9.9
+python-decouple==3.8
 pytz==2024.1
 sqlparse==0.4.4
 tzdata==2024.1
