@@ -1,0 +1,37 @@
+[
+    {
+        "email": "santiagoganjah420@gmail.com",
+        "password": "1234",
+        "status": true
+    },
+    {
+        "email": null,
+        "password": null,
+        "status": true
+    },
+    {
+        "email": null,
+        "password": null,
+        "status": true
+    },
+    {
+        "email": null,
+        "password": null,
+        "status": true
+    },
+    {
+        "email": null,
+        "password": null,
+        "status": true
+    },
+    {
+        "email": null,
+        "password": null,
+        "status": true
+    },
+    {
+        "email": null,
+        "password": null,
+        "status": true
+    }
+]
